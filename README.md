@@ -1,28 +1,13 @@
-#  Dia 1 :
-Dia 1: 
+#  JUPITERNOTEBOOKS:
 
-Condicionalees   
+LISTAS
 
-bucles   
+CONDICIONALES
 
-listas 
+BUCLES
 
-funciones 
+MODELO PROPHET  PARA HACER PREDICIONES
 
-Dia 2: 
+LIBRERIA FOLIUM MAPAS  DE GOOGLE EARTH
 
-API recopilación de datos 
-
-EDA visualización de datos 
-
-Dia 3: 
-
-Introduccin Machine Learning con Scikit-Learn 
-
-Modelo de regresión 
-
-Dia 4:
-
-Predecir si  la nave SPACEX se estrellará o no, a partir de 4 modelos de predicción
-
-Utilización de folium para sacar los puntos de  despegue de las naves en mapas de google
+DIFERENTES TIPOS DE MODELOS PREDICTIVOS  PARA UN EJERCICIO DE SPACEX
